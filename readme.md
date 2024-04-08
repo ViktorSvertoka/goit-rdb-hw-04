@@ -86,3 +86,27 @@ f) Таблиця "borrowed_books":
 3. Таблиці заповнено тестовими даними.
 4. SQL команди до кожного пункту чи підпункту виконуються і дають очікуваний результат (створюють таблиці чи роблять певні операції з даними).
 5. Правильно дані відповіді на запитання в 4-му пункті.
+
+### Результат виконаного ДЗ
+
+![Results](./images/01-image.png)
+
+![Results](./images/02-image.png)
+
+![Results](./images/03-image.png)
+
+![Results](./images/04-image.png)
+
+![Results](./images/05-image.png)
+
+![Results](./images/06-image.png)
+
+![Results](./images/07-image.png)
+
+![Results](./images/08-image.png)
+
+![Results](./images/09-image.png)
+
+![Results](./images/10-image.png)
+
+![Results](./images/11-image.png)
